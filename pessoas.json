@@ -1,0 +1,25 @@
+[
+  {
+    "nome": "aerton",
+    "idade": 17,
+    "email": "aerton.filho@gmail.com",
+    "endereco": {
+      "rua": "avenida doutor f",
+      "numero": "123",
+      "cidade": "maceio",
+      "estado": "AL",
+      "Cep": "01234-567"
+    },
+    "Telefones": [
+      {
+        "tipo": "celular",
+        "numero": "(82) 40028922"
+      },
+      {
+        "tipo": "residencial",
+        "numero": "(82) 90901234"
+      }
+    ],
+    "id": 1
+  }
+]
